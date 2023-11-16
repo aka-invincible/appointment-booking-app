@@ -11,6 +11,7 @@ import icon02 from "../assets/images/icon02.png";
 import icon03 from "../assets/images/icon03.png";
 
 import { BsArrowRight } from "react-icons/bs";
+import About from "../components/about/About";
 
 const Home = () => {
   return (
@@ -159,6 +160,8 @@ const Home = () => {
           </div>
         </div>
       </section>
+      <About/>
+      
     </>
   );
 };
