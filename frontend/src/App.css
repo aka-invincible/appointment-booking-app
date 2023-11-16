@@ -13,7 +13,8 @@ body {
 
 .stick__header {
     height: 80;
-    width: 100px;
+    width: 100%;
+    background: white;
     line-height: 80px;
     position: sticky;
     left: 0;
